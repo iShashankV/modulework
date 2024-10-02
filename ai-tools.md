@@ -5,4 +5,6 @@ Artificial Intelligence (AI) tools can help automate repetitive tasks, enhance p
 - **Natural Language Processing (NLP)**: Tools that process and generate human language, such as text analysis tools.
 - **Image Recognition**: Tools that identify objects, faces, and patterns in images.
 
-Stay tuned for detailed tutorials!
+## AI Tools Tutorial
+
+[Watch the tutorial](video-tutorial-ai-tools.md) to learn more about how to use AI tools effectively.
