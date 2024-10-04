@@ -8,7 +8,7 @@ Here are some ways AI can enhance our work:
 
 ## Tutorials for AI Tools
 
-- [Tutorial 1: Basics of AI tools to use for Content Research](video-tutorial-ai-tools.md)
+- [Tutorial 1: Basics of Notebook LM](video-tutorial-ai-tools.md)
 - [Tutorial 2: Using Notebook LM]
 - [Tutorial 3: Using Claude AI]
 - [Tutorial 4: Using ChatGPT]
