@@ -8,7 +8,7 @@
 .site-footer{
   display: none;
 }
-
+@import "{{ site.theme }}";
 .cta-button {
   display: inline-block;
   padding: 12px 24px;
