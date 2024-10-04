@@ -10,4 +10,4 @@ This site offers a comprehensive collection of resources and tutorials focused o
 <!--
 Embark on your AI journey today! [Explore the resources ](ai-tools.md) available on this site, and discover how you can integrate AI tools into your daily work to enhance your productivity and achieve greater success.
 -->
-<a href="ai-tools.md" class="cta-button">Explore the resources</a>
+<a href="ai-tools" class="cta-button">Explore the resources</a>
