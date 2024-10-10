@@ -1,7 +1,7 @@
-# AI Tool Tutorial
+# Courses and Blogs to Refer for NotebookLM
+## Blogs to Read
+- [NotebookLM by Fresh Van Root](https://freshvanroot.com/blog/notebooklm-google/)
+- [How to Use NotebookLM by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2024/10/how-to-use-notebooklm/)
 
-Watch this introduction tutorial on using Notebook LM.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 100%;">
-    <iframe src="https://drive.google.com/file/d/1fflDIT3ZwY2A9FmMEwBuFu6qWjJpqcBx/preview" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+## Mandatory Course
+- [Introduction to NotebookLM Course](https://dair-ai.thinkific.com/courses/introduction-notebooklm)
