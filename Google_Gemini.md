@@ -1,4 +1,4 @@
-# Video Courses and Blogs to Refer for Google Gemini
+# Google Gemini
 
 ## Video Courses
 - <a href="https://www.youtube.com/playlist?list=PL7hc7ZLdMi6pSXUBhgdPNkisjBEN5x6xF" target="_blank">Advanced Course on Google Gemini</a>
