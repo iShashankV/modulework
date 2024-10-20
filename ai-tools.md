@@ -8,8 +8,7 @@ Here are some ways AI can enhance our work:
 
 ## Tutorials for AI Tools
 
-- [Tutorial 1: Basics of Notebook LM](video-tutorial-ai-tools.md)
-- [Tutorial 2: Using Notebook LM]
-- [Tutorial 3: Using Claude AI]
-- [Tutorial 4: Using ChatGPT]
-- [Tutotial 5: Using Other Tools]
+- [Tutorial 1: Basics of Notebook LM](Notebook_Tutorials.md)
+- [Tutorial 2: Using Gemini AI](Google_Gemini.md)
+- [Tutorial 3: Using Claude AI](Claude.md)
+- [Tutorial 4: Using ChatGPT](ChatGPT.md)
