@@ -11,4 +11,5 @@ Here are some ways AI can enhance our work:
 - [Tutorial 1: Basics of Notebook LM](Notebook_Tutorials.md)
 - [Tutorial 2: Using Gemini AI](Google_Gemini.md)
 - [Tutorial 3: Using Claude AI](Claude.md)
-- [Tutorial 4: Using ChatGPT](ChatGPT.md)
+- [Tutorial 4: Using Perplexity AI](PerplexityAI.md)
+- [Tutorial 5: Creating Prompts and Prompt Engineering](Prompts.md)
