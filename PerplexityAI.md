@@ -1,4 +1,4 @@
-# Video Courses and Blogs to Refer for PerplexitAI
+# Perplexity AI
 
 ## Video Courses
 - <a href="https://youtube.com/playlist?list=PL7hc7ZLdMi6qHYFcEM5kDg5UVV_DLb1Gp&si=okwu3ED88VQzg028" target="_blank">Advanced Course on Perplexity AI</a>
