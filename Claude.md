@@ -1,4 +1,4 @@
-# Video Courses and Blogs to Refer for Claude AI
+# Claude AI
 
 ## Video Courses
 - <a href="https://www.youtube.com/watch?v=GPoi8xLlRv8&list=PL7hc7ZLdMi6oI3zvqg7t7Q248hUsb7uVi&index=11" target="_blank">Understanding Claude AI</a>
