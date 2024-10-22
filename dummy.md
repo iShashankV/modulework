@@ -26,6 +26,7 @@
     background-color: rgba(87, 87, 87, 0.9); /* Slightly transparent hover effect */
   }
 
+  /* Dropdown Menu */
   .horizontal-menu ul {
     display: none;
     position: absolute;
@@ -44,8 +45,21 @@
     top: 120%; /* Slide down effect */
   }
 
+  /* Fix for submenu to stay open */
   .horizontal-menu ul li {
     width: 160px;
+  }
+
+  .horizontal-menu ul li a {
+    padding: 10px;
+    display: block;
+    white-space: nowrap;
+  }
+
+  /* Ensuring submenu doesn't disappear while hovering */
+  .horizontal-menu li:hover ul:hover {
+    display: block; /* Keep the submenu open */
+    opacity: 1;
   }
 
   /* Mobile responsiveness */
@@ -62,11 +76,6 @@
     .horizontal-menu ul li {
       width: 100%;
     }
-  }
-
-  /* Main content styling */
-  .content {
-    padding: 20px;
   }
 </style>
 
@@ -85,21 +94,3 @@
     </li>
   </ul>
 </nav>
-
-<!-- Main content -->
-<div class="content">
-  # Productivity with AI Tools
-  In today’s digital landscape, leveraging artificial intelligence is essential for enhancing productivity and streamlining research processes. This site serves as your comprehensive resource for learning and understanding various AI tools that can transform your work experience.
-  
-  # What You Will Learn
-  This site is a collection of resources and tutorials focused on multiple AI tools and Prompt Creations. The listed resources focus on:
-  
-  - **Foundational Knowledge**: Begin your journey with a basic introduction to the AI tools, understanding their functionality and relevance for our work environment.
-  
-  - **Step-by-Step Tutorials**: Access detailed guides on how to effectively use these different AI applications, enabling our research work.
-  
-  - **Practical Examples**: Learn through illustrative case studies that demonstrate the time-saving benefits of AI tools.
-  
-  ## Learn More About AI Tools
-  Embark on your AI journey today! [Explore the resources ](ai-tools.md) available on this site, and discover how you can integrate AI tools into your daily work to enhance your productivity and achieve greater success.
-</div>
