@@ -4,7 +4,7 @@
   .horizontal-menu {
     display: flex;
     justify-content: center;
-    background-color: #333;
+    background-color: rgba(51, 51, 51, 0.9); /* Slightly transparent background */
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -13,6 +13,7 @@
   .horizontal-menu li {
     padding: 14px 20px;
     position: relative;
+    transition: background-color 0.3s ease; /* Smooth transition for hover */
   }
 
   .horizontal-menu li a {
@@ -22,7 +23,7 @@
   }
 
   .horizontal-menu li:hover {
-    background-color: #575757;
+    background-color: rgba(87, 87, 87, 0.9); /* Slightly transparent hover effect */
   }
 
   .horizontal-menu ul {
@@ -30,20 +31,45 @@
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #333;
+    background-color: rgba(51, 51, 51, 0.9);
     list-style-type: none;
     padding: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease, top 0.3s ease; /* Add transition for dropdown */
   }
 
   .horizontal-menu li:hover ul {
     display: block;
+    opacity: 1; /* Dropdown becomes visible */
+    top: 120%; /* Slide down effect */
   }
 
   .horizontal-menu ul li {
     width: 160px;
   }
 
- 
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .horizontal-menu {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .horizontal-menu ul {
+      position: static;
+    }
+
+    .horizontal-menu ul li {
+      width: 100%;
+    }
+  }
+
+  /* Main content styling */
+  .content {
+    padding: 20px;
+  }
+</style>
+
 <!-- HTML Content -->
 <nav>
   <!-- Horizontal Menu -->
@@ -59,7 +85,6 @@
     </li>
   </ul>
 </nav>
-
 
 <!-- Main content -->
 <div class="content">
